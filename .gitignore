@@ -2,3 +2,6 @@ _test.py
 __pycache__
 program.out
 .venv
+analyzer
+password_audit
+test.py
